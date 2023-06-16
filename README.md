@@ -12,14 +12,14 @@
 <a href="">Link Página</a>
 
 <h2>Punto 2: Calculo de Mayoría de Edad</h2>
-<img src="" alt="HTML2">
+<img src="" alt="">
 
 <h2>Punto 3: Paso de datos del usuario</h2>
-<img src="" alt="CSS">
+<img src="" alt="">
 
 <h2>Punto 4: Calculo de Mayoría de Edad con Fechas</h2> 
-<img src="" alt="Punto 4">
+<img src="" alt="">
 
 <h2>Punto 4 5 6: Proyecto conexión Base de datos</h2> 
-<img src="" alt="Punto 5">
+<img src="" alt="">
 
