@@ -8,9 +8,6 @@
 <h2>Punto 1: Operación de dos números</h2>
 <a href=""></a>
 
-<br>
-<a href="">Link Página</a>
-
 <h2>Punto 2: Calculo de Mayoría de Edad</h2>
 <img src="" alt="">
 
